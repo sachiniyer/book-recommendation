@@ -1,0 +1,2767 @@
+{
+  "Subjects": [
+    {
+      "INDULGENCES + WORLDS": "culinary cuisine food",
+      "MOODS": "grief",
+      "MIND + BODY": "trauma",
+      "IDENTITY": "interracial race",
+      "POLITICS + PHILSOPHIES": "apartheid",
+      "LOVE": "sex",
+      "PROFESSIONS": "\"Physician doctor\""
+    },
+    {
+      "INDULGENCES + WORLDS": "partying party parties",
+      "MOODS": "violence",
+      "MIND + BODY": "disease",
+      "IDENTITY": "yuppie",
+      "POLITICS + PHILSOPHIES": "urbanization",
+      "LOVE": "\"forbidden love\"",
+      "PROFESSIONS": "Teacher"
+    },
+    {
+      "INDULGENCES + WORLDS": "fashion",
+      "MOODS": "ennui",
+      "MIND + BODY": "alcohol",
+      "IDENTITY": "student",
+      "POLITICS + PHILSOPHIES": "dystopic",
+      "LOVE": "lust",
+      "PROFESSIONS": "Lawyer"
+    },
+    {
+      "INDULGENCES + WORLDS": "film",
+      "MOODS": "redemption",
+      "MIND + BODY": "cancer",
+      "IDENTITY": "bohemian",
+      "POLITICS + PHILSOPHIES": "socialism",
+      "LOVE": "provocative",
+      "PROFESSIONS": "Accountant"
+    },
+    {
+      "INDULGENCES + WORLDS": "art",
+      "MOODS": "regret",
+      "MIND + BODY": "rape",
+      "IDENTITY": "immigrant",
+      "POLITICS + PHILSOPHIES": "capitalism",
+      "LOVE": "cheating unfaithful adultery adulterous affair infidelity",
+      "PROFESSIONS": "Engineer"
+    },
+    {
+      "INDULGENCES + WORLDS": "literature",
+      "MOODS": "nostalgic nostalgia",
+      "MIND + BODY": "consciousness",
+      "IDENTITY": "masculinity",
+      "POLITICS + PHILSOPHIES": "economics",
+      "LOVE": "heartbreak love",
+      "PROFESSIONS": "Pharmacist"
+    },
+    {
+      "INDULGENCES + WORLDS": "music",
+      "MOODS": "paranoia",
+      "MIND + BODY": "suicide",
+      "IDENTITY": "femininity",
+      "POLITICS + PHILSOPHIES": "globalization",
+      "LOVE": "husband wife marriage",
+      "PROFESSIONS": "Technician"
+    },
+    {
+      "INDULGENCES + WORLDS": "travel",
+      "MOODS": "happiness",
+      "MIND + BODY": "addiction",
+      "IDENTITY": "intellectual",
+      "POLITICS + PHILSOPHIES": "consumerism",
+      "LOVE": "divorce marriage",
+      "PROFESSIONS": "Electrician"
+    },
+    {
+      "INDULGENCES + WORLDS": "glamour",
+      "MOODS": "sadness",
+      "MIND + BODY": "depression",
+      "IDENTITY": "refugee",
+      "POLITICS + PHILSOPHIES": "environment",
+      "PROFESSIONS": "\"Police officer\""
+    },
+    {
+      "INDULGENCES + WORLDS": "pot marijuana weed LSD acid psychedelic heroin drugs",
+      "MOODS": "beautiful",
+      "MIND + BODY": "AIDS HIV/AIDS",
+      "IDENTITY": "pedophile",
+      "POLITICS + PHILSOPHIES": "modernization",
+      "PROFESSIONS": "Veterinarian"
+    },
+    {
+      "INDULGENCES + WORLDS": "tech technology",
+      "MOODS": "isolation loneliness solitude",
+      "MIND + BODY": "HIV HIV/AIDS",
+      "IDENTITY": "orphan",
+      "POLITICS + PHILSOPHIES": "conspiracy",
+      "PROFESSIONS": "Dietitian"
+    },
+    {
+      "INDULGENCES + WORLDS": "internet technology",
+      "MOODS": "memory ",
+      "MIND + BODY": "dying death mortality",
+      "IDENTITY": "childhood",
+      "POLITICS + PHILSOPHIES": "millennial",
+      "PROFESSIONS": "Surveyor"
+    },
+    {
+      "INDULGENCES + WORLDS": "university college",
+      "MOODS": "transcendence liberation",
+      "MIND + BODY": "\"old age\" aging",
+      "IDENTITY": "\"loss of innocence\"",
+      "POLITICS + PHILSOPHIES": "independence",
+      "PROFESSIONS": "\"Software Developer\""
+    },
+    {
+      "INDULGENCES + WORLDS": "college school campus education",
+      "MOODS": "loss",
+      "MIND + BODY": "pregnant pregnancy ",
+      "IDENTITY": "punk",
+      "POLITICS + PHILSOPHIES": "crime",
+      "PROFESSIONS": "Dentist"
+    },
+    {
+      "INDULGENCES + WORLDS": "yale princeton harvard columbia brown darthmouth \"Ivy League\" ",
+      "MOODS": "apathy",
+      "MIND + BODY": "sick sickness illness",
+      "IDENTITY": "twin",
+      "POLITICS + PHILSOPHIES": "\"artificial intelligence\"",
+      "PROFESSIONS": "Scientist"
+    },
+    {
+      "INDULGENCES + WORLDS": "mysticism shaman occult \"New Age\"",
+      "MOODS": "lust",
+      "MIND + BODY": "blind blindness",
+      "IDENTITY": "caste",
+      "POLITICS + PHILSOPHIES": "utopic uptopia",
+      "PROFESSIONS": "Firefighter"
+    },
+    {
+      "INDULGENCES + WORLDS": "office corporate  career",
+      "MOODS": "fear",
+      "IDENTITY": "wealth",
+      "POLITICS + PHILSOPHIES": "political politics",
+      "PROFESSIONS": "Midwife"
+    },
+    {
+      "INDULGENCES + WORLDS": "hippie counterculture",
+      "MOODS": "longing",
+      "IDENTITY": "poverty wealth",
+      "POLITICS + PHILSOPHIES": "moral ethic ethics morals ethical morality",
+      "PROFESSIONS": "Architect architecture"
+    },
+    {
+      "INDULGENCES + WORLDS": "athletics sports",
+      "IDENTITY": "entrepreneur business",
+      "POLITICS + PHILSOPHIES": "psychological psychology",
+      "PROFESSIONS": "Surgeon"
+    },
+    {
+      "INDULGENCES + WORLDS": "baseball football basketball tennis volleyball soccer sports",
+      "IDENTITY": "mother father brother sister daughter husband wife marriage divorce son \"family saga\" family",
+      "POLITICS + PHILSOPHIES": "philosophical philosophy",
+      "PROFESSIONS": "Waiter"
+    },
+    {
+      "INDULGENCES + WORLDS": "labor",
+      "IDENTITY": "friend friendship",
+      "POLITICS + PHILSOPHIES": "\"September 11\" terrorism",
+      "PROFESSIONS": "Psychologist"
+    },
+    {
+      "INDULGENCES + WORLDS": "farm",
+      "IDENTITY": "\"working class\" \"blue collar\"",
+      "POLITICS + PHILSOPHIES": "9/11 September 11",
+      "PROFESSIONS": "Librarian"
+    },
+    {
+      "IDENTITY": "\"coming of age\" adolescence childhood \"salad days\" youth",
+      "POLITICS + PHILSOPHIES": "terrorist terrorism",
+      "PROFESSIONS": "Chef"
+    },
+    {
+      "IDENTITY": "child childhood",
+      "POLITICS + PHILSOPHIES": "\"serial killer\" murder",
+      "PROFESSIONS": "Laborer"
+    },
+    {
+      "IDENTITY": "\"social status\" \"social class\"",
+      "POLITICS + PHILSOPHIES": "soldier military war",
+      "PROFESSIONS": "Plumber"
+    },
+    {
+      "IDENTITY": "LGBTQ sexuality",
+      "POLITICS + PHILSOPHIES": "\"World War I\"",
+      "PROFESSIONS": "Artist"
+    },
+    {
+      "IDENTITY": "lesbian gay transgender queer bisexual LGBTQ ",
+      "POLITICS + PHILSOPHIES": "\"World War II\"",
+      "PROFESSIONS": "Physiotherapist"
+    },
+    {
+      "IDENTITY": "expatriate expat",
+      "POLITICS + PHILSOPHIES": "\"Vietnam War\"",
+      "PROFESSIONS": "Mechanic"
+    },
+    {
+      "IDENTITY": "girl girlhood \"female experience\"",
+      "POLITICS + PHILSOPHIES": "postwar",
+      "PROFESSIONS": "Secretary"
+    },
+    {
+      "IDENTITY": "boy boyhood \"male experience\"",
+      "POLITICS + PHILSOPHIES": "anti-war antiwar",
+      "PROFESSIONS": "Broker"
+    },
+    {
+      "IDENTITY": "dog animal",
+      "POLITICS + PHILSOPHIES": "freedom \"free will\" free",
+      "PROFESSIONS": "Agriculturist"
+    },
+    {
+      "IDENTITY": "\"young woman\"",
+      "POLITICS + PHILSOPHIES": "lawyer law",
+      "PROFESSIONS": "\"Real Estate Broker\""
+    },
+    {
+      "IDENTITY": "\"young man\"",
+      "POLITICS + PHILSOPHIES": "colonial colonization colonialism",
+      "PROFESSIONS": "Athlete"
+    },
+    {
+      "IDENTITY": "doctor medicine",
+      "POLITICS + PHILSOPHIES": "\"post independence\" \"post partition\" \"post colonial\"",
+      "PROFESSIONS": "Hairdresser"
+    },
+    {
+      "IDENTITY": "lawyer law",
+      "POLITICS + PHILSOPHIES": "communist communism",
+      "PROFESSIONS": "Journalist"
+    },
+    {
+      "IDENTITY": "nerd",
+      "POLITICS + PHILSOPHIES": "God religion",
+      "PROFESSIONS": "Cashier"
+    },
+    {
+      "IDENTITY": "chef ",
+      "POLITICS + PHILSOPHIES": "Brexit",
+      "PROFESSIONS": "Butcher"
+    },
+    {
+      "IDENTITY": "police",
+      "POLITICS + PHILSOPHIES": "Holocaust",
+      "PROFESSIONS": "Consultant"
+    },
+    {
+      "IDENTITY": "prostitute prositution",
+      "POLITICS + PHILSOPHIES": "injustice",
+      "PROFESSIONS": "Actor"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "racist racism",
+      "PROFESSIONS": "Designer"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "supremacy ",
+      "PROFESSIONS": "Bartender"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "racial race",
+      "PROFESSIONS": "Cleaner"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "\"American Dream\"",
+      "PROFESSIONS": "Tailor"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "math mathematics",
+      "PROFESSIONS": "Author"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "epidemic",
+      "PROFESSIONS": "athlete sports"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "stoicism"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "existentialist existentialism"
+    },
+    {
+      "POLITICS + PHILSOPHIES": "sociology sociological "
+    },
+    {
+      "POLITICS + PHILSOPHIES": "heaven hell afterlife"
+    }
+  ],
+  "Style": [
+    {
+      "STYLES ": "erotic",
+      "MOVEMENTS": "modernist",
+      "EQUALS": "humor comic comedy hilarious funny"
+    },
+    {
+      "STYLES ": "spare",
+      "MOVEMENTS": "realist",
+      "EQUALS": "\"unreliable narration\" \"unreliable narrator\""
+    },
+    {
+      "STYLES ": "irony",
+      "MOVEMENTS": "postmodern",
+      "EQUALS": "\"magic realist\" \"magical realism\""
+    },
+    {
+      "STYLES ": "sarcasm",
+      "EQUALS": "allusions allusive"
+    },
+    {
+      "STYLES ": "\"word play\""
+    },
+    {
+      "STYLES ": "sad"
+    },
+    {
+      "STYLES ": "drama"
+    },
+    {
+      "STYLES ": "lush"
+    },
+    {
+      "STYLES ": "non-linear "
+    },
+    {
+      "STYLES ": "dense"
+    },
+    {
+      "STYLES ": "suspense"
+    },
+    {
+      "STYLES ": "\"stream of consciousness\""
+    },
+    {
+      "STYLES ": "candid"
+    },
+    {
+      "STYLES ": "monologue"
+    },
+    {
+      "STYLES ": "\"second person\""
+    },
+    {
+      "STYLES ": "restrained"
+    },
+    {
+      "STYLES ": "satirical satire"
+    },
+    {
+      "STYLES ": "allusive"
+    },
+    {
+      "STYLES ": "saga"
+    },
+    {
+      "STYLES ": "lyric"
+    },
+    {
+      "STYLES ": "metafiction "
+    },
+    {
+      "STYLES ": "flashback "
+    },
+    {
+      "STYLES ": "innovative experimental"
+    },
+    {
+      "STYLES ": "plotty"
+    },
+    {
+      "STYLES ": "\"lush language\""
+    },
+    {
+      "STYLES ": "lyrical"
+    },
+    {
+      "STYLES ": "sparse"
+    },
+    {
+      "STYLES ": "somber"
+    },
+    {
+      "STYLES ": "languid"
+    },
+    {
+      "STYLES ": "fast-paced \"fast paced\""
+    }
+  ],
+  "Time": [
+    {
+      "TIME": "\"16th century\""
+    },
+    {
+      "TIME": "\"17th century\""
+    },
+    {
+      "TIME": "\"18th century\""
+    },
+    {
+      "TIME": "1900s"
+    },
+    {
+      "TIME": "1910s"
+    },
+    {
+      "TIME": "1920s"
+    },
+    {
+      "TIME": "1930s"
+    },
+    {
+      "TIME": "1940s"
+    },
+    {
+      "TIME": "1950s"
+    },
+    {
+      "TIME": "1960s"
+    },
+    {
+      "TIME": "1970s"
+    },
+    {
+      "TIME": "1980s"
+    },
+    {
+      "TIME": "1990s"
+    },
+    {
+      "TIME": "2000s"
+    },
+    {
+      "TIME": "2010s"
+    },
+    {
+      "TIME": "contemporary"
+    },
+    {
+      "TIME": "historical"
+    },
+    {
+      "TIME": "future"
+    },
+    {
+      "TIME": "spring"
+    },
+    {
+      "TIME": "summer"
+    },
+    {
+      "TIME": "autumn "
+    },
+    {
+      "TIME": "winter"
+    },
+    {
+      "TIME": "BC"
+    },
+    {
+      "TIME": "millenium"
+    },
+    {
+      "TIME": "\"roaring twenties\""
+    }
+  ],
+  "Form": [
+    {
+      "FORM": "whodunit"
+    },
+    {
+      "FORM": "detective"
+    },
+    {
+      "FORM": "\"adapted to film\""
+    },
+    {
+      "FORM": "\"murder mystery\" mystery"
+    },
+    {
+      "FORM": "memoir"
+    },
+    {
+      "FORM": "autobiographical"
+    },
+    {
+      "FORM": "novel"
+    },
+    {
+      "FORM": "novella"
+    },
+    {
+      "FORM": "plot twist'"
+    },
+    {
+      "FORM": "\"personal essay\" essay"
+    },
+    {
+      "FORM": "debut "
+    },
+    {
+      "FORM": "\"modern classic\""
+    },
+    {
+      "FORM": "epic"
+    },
+    {
+      "FORM": "thriller"
+    },
+    {
+      "FORM": "memoir"
+    },
+    {
+      "FORM": "\"short story\" \"short stories\""
+    },
+    {
+      "FORM": "metafiction"
+    },
+    {
+      "FORM": "cyberpunk"
+    },
+    {
+      "FORM": "allegorically allegory"
+    },
+    {
+      "FORM": "poet poems poetry"
+    },
+    {
+      "FORM": "parable"
+    },
+    {
+      "FORM": "research"
+    },
+    {
+      "FORM": "spy"
+    },
+    {
+      "FORM": "\"science fiction\" sci-fi"
+    },
+    {
+      "FORM": "mythology myth"
+    },
+    {
+      "FORM": "fantasy"
+    },
+    {
+      "FORM": "epistolary "
+    },
+    {
+      "FORM": "fiction"
+    },
+    {
+      "FORM": "poetry"
+    },
+    {
+      "FORM": "reportage"
+    },
+    {
+      "FORM": "\"roman a clef\""
+    },
+    {
+      "FORM": "bildungsroman "
+    },
+    {
+      "FORM": "non-fiction"
+    },
+    {
+      "FORM": "\"first novel\" \"debut work\""
+    },
+    {
+      "FORM": "\"prose poem\""
+    },
+    {
+      "FORM": "\"text and image\" \"texts and images\""
+    },
+    {
+      "FORM": "monologues monologue"
+    }
+  ],
+  "Ethnicities and Religions": [
+    {
+      "NATIONALITIES": "Afghan",
+      "RELIGION": "Islam",
+      "RACE": "\"African American\""
+    },
+    {
+      "NATIONALITIES": "Albanian",
+      "RELIGION": "Muslim ",
+      "RACE": "Asian"
+    },
+    {
+      "NATIONALITIES": "Algerian",
+      "RELIGION": "Jewish",
+      "RACE": "Latino"
+    },
+    {
+      "NATIONALITIES": "American",
+      "RELIGION": "Jew",
+      "RACE": "Hispanic "
+    },
+    {
+      "NATIONALITIES": "Andorran",
+      "RELIGION": "Judaism",
+      "RACE": "\"Native American\""
+    },
+    {
+      "NATIONALITIES": "Angolan",
+      "RELIGION": "Christian",
+      "RACE": "Hawaiian"
+    },
+    {
+      "NATIONALITIES": "Antiguans",
+      "RELIGION": "Christianity ",
+      "RACE": "Indigenous"
+    },
+    {
+      "NATIONALITIES": "Argentinean",
+      "RELIGION": "Buddhist ",
+      "RACE": "African"
+    },
+    {
+      "NATIONALITIES": "Armenian",
+      "RELIGION": "Buddhism",
+      "RACE": "Black (note: capital Black)"
+    },
+    {
+      "NATIONALITIES": "Australian",
+      "RELIGION": "Hindu"
+    },
+    {
+      "NATIONALITIES": "Austrian",
+      "RELIGION": "Hinduism"
+    },
+    {
+      "NATIONALITIES": "Azerbaijani",
+      "RELIGION": "Agnostic"
+    },
+    {
+      "NATIONALITIES": "Bahamian",
+      "RELIGION": "Athiest"
+    },
+    {
+      "NATIONALITIES": "Bahraini",
+      "RELIGION": "Sikh"
+    },
+    {
+      "NATIONALITIES": "Bangladeshi",
+      "RELIGION": "Sikhism"
+    },
+    {
+      "NATIONALITIES": "Barbadian",
+      "RELIGION": "Bahai "
+    },
+    {
+      "NATIONALITIES": "Barbudans"
+    },
+    {
+      "NATIONALITIES": "Batswana"
+    },
+    {
+      "NATIONALITIES": "Belarusian"
+    },
+    {
+      "NATIONALITIES": "Belgian"
+    },
+    {
+      "NATIONALITIES": "Belizean"
+    },
+    {
+      "NATIONALITIES": "Beninese"
+    },
+    {
+      "NATIONALITIES": "Bhutanese"
+    },
+    {
+      "NATIONALITIES": "Bolivian"
+    },
+    {
+      "NATIONALITIES": "Bosnian"
+    },
+    {
+      "NATIONALITIES": "Brazilian"
+    },
+    {
+      "NATIONALITIES": "British"
+    },
+    {
+      "NATIONALITIES": "Bruneian"
+    },
+    {
+      "NATIONALITIES": "Bulgarian"
+    },
+    {
+      "NATIONALITIES": "Burkinabe"
+    },
+    {
+      "NATIONALITIES": "Burmese"
+    },
+    {
+      "NATIONALITIES": "Burundian"
+    },
+    {
+      "NATIONALITIES": "Cambodian"
+    },
+    {
+      "NATIONALITIES": "Cameroonian"
+    },
+    {
+      "NATIONALITIES": "Canadian"
+    },
+    {
+      "NATIONALITIES": "\"Cape Verdean\""
+    },
+    {
+      "NATIONALITIES": "\"Central African\""
+    },
+    {
+      "NATIONALITIES": "Chadian"
+    },
+    {
+      "NATIONALITIES": "Chilean"
+    },
+    {
+      "NATIONALITIES": "Chinese"
+    },
+    {
+      "NATIONALITIES": "Colombian"
+    },
+    {
+      "NATIONALITIES": "Comoran"
+    },
+    {
+      "NATIONALITIES": "Congolese"
+    },
+    {
+      "NATIONALITIES": "\"Costa Rican\""
+    },
+    {
+      "NATIONALITIES": "Croatian"
+    },
+    {
+      "NATIONALITIES": "Cuban"
+    },
+    {
+      "NATIONALITIES": "Cypriot"
+    },
+    {
+      "NATIONALITIES": "Czech"
+    },
+    {
+      "NATIONALITIES": "Danish"
+    },
+    {
+      "NATIONALITIES": "Djibouti"
+    },
+    {
+      "NATIONALITIES": "Dominican"
+    },
+    {
+      "NATIONALITIES": "Dutch"
+    },
+    {
+      "NATIONALITIES": "\"East Timorese\""
+    },
+    {
+      "NATIONALITIES": "Ecuadorean"
+    },
+    {
+      "NATIONALITIES": "Egyptian"
+    },
+    {
+      "NATIONALITIES": "Emirian"
+    },
+    {
+      "NATIONALITIES": "\"Equatorial Guinean\""
+    },
+    {
+      "NATIONALITIES": "Eritrean"
+    },
+    {
+      "NATIONALITIES": "Estonian"
+    },
+    {
+      "NATIONALITIES": "Ethiopian"
+    },
+    {
+      "NATIONALITIES": "Fijian"
+    },
+    {
+      "NATIONALITIES": "Filipino"
+    },
+    {
+      "NATIONALITIES": "Finnish"
+    },
+    {
+      "NATIONALITIES": "French"
+    },
+    {
+      "NATIONALITIES": "Gabonese"
+    },
+    {
+      "NATIONALITIES": "Gambian"
+    },
+    {
+      "NATIONALITIES": "Georgian"
+    },
+    {
+      "NATIONALITIES": "German"
+    },
+    {
+      "NATIONALITIES": "Ghanaian"
+    },
+    {
+      "NATIONALITIES": "Greek"
+    },
+    {
+      "NATIONALITIES": "Grenadian"
+    },
+    {
+      "NATIONALITIES": "Guatemalan"
+    },
+    {
+      "NATIONALITIES": "Guinea-Bissauan"
+    },
+    {
+      "NATIONALITIES": "Guinean"
+    },
+    {
+      "NATIONALITIES": "Guyanese"
+    },
+    {
+      "NATIONALITIES": "Haitian"
+    },
+    {
+      "NATIONALITIES": "Herzegovinian"
+    },
+    {
+      "NATIONALITIES": "Honduran"
+    },
+    {
+      "NATIONALITIES": "Hungarian"
+    },
+    {
+      "NATIONALITIES": "I-Kiribati"
+    },
+    {
+      "NATIONALITIES": "Icelander"
+    },
+    {
+      "NATIONALITIES": "Indian"
+    },
+    {
+      "NATIONALITIES": "Indonesian"
+    },
+    {
+      "NATIONALITIES": "Iranian"
+    },
+    {
+      "NATIONALITIES": "Iraqi"
+    },
+    {
+      "NATIONALITIES": "Irish"
+    },
+    {
+      "NATIONALITIES": "Israeli"
+    },
+    {
+      "NATIONALITIES": "Italian"
+    },
+    {
+      "NATIONALITIES": "Ivorian"
+    },
+    {
+      "NATIONALITIES": "Jamaican"
+    },
+    {
+      "NATIONALITIES": "Japanese"
+    },
+    {
+      "NATIONALITIES": "Jordanian"
+    },
+    {
+      "NATIONALITIES": "Kazakhstani"
+    },
+    {
+      "NATIONALITIES": "Kenyan"
+    },
+    {
+      "NATIONALITIES": "\"Kittian and Nevisian\""
+    },
+    {
+      "NATIONALITIES": "Kuwaiti"
+    },
+    {
+      "NATIONALITIES": "Kyrgyz"
+    },
+    {
+      "NATIONALITIES": "Laotian"
+    },
+    {
+      "NATIONALITIES": "Latvian"
+    },
+    {
+      "NATIONALITIES": "Lebanese"
+    },
+    {
+      "NATIONALITIES": "Liberian"
+    },
+    {
+      "NATIONALITIES": "Libyan"
+    },
+    {
+      "NATIONALITIES": "Liechtensteiner"
+    },
+    {
+      "NATIONALITIES": "Lithuanian"
+    },
+    {
+      "NATIONALITIES": "Luxembourger"
+    },
+    {
+      "NATIONALITIES": "Macedonian"
+    },
+    {
+      "NATIONALITIES": "Malagasy"
+    },
+    {
+      "NATIONALITIES": "Malawian"
+    },
+    {
+      "NATIONALITIES": "Malaysian"
+    },
+    {
+      "NATIONALITIES": "Maldivian"
+    },
+    {
+      "NATIONALITIES": "Malian"
+    },
+    {
+      "NATIONALITIES": "Maltese"
+    },
+    {
+      "NATIONALITIES": "Marshallese"
+    },
+    {
+      "NATIONALITIES": "Mauritanian"
+    },
+    {
+      "NATIONALITIES": "Mauritian"
+    },
+    {
+      "NATIONALITIES": "Mexican"
+    },
+    {
+      "NATIONALITIES": "Micronesian"
+    },
+    {
+      "NATIONALITIES": "Moldovan"
+    },
+    {
+      "NATIONALITIES": "Monacan"
+    },
+    {
+      "NATIONALITIES": "Mongolian"
+    },
+    {
+      "NATIONALITIES": "Moroccan"
+    },
+    {
+      "NATIONALITIES": "Mosotho"
+    },
+    {
+      "NATIONALITIES": "Motswana"
+    },
+    {
+      "NATIONALITIES": "Mozambican"
+    },
+    {
+      "NATIONALITIES": "Namibian"
+    },
+    {
+      "NATIONALITIES": "Nauruan"
+    },
+    {
+      "NATIONALITIES": "Nepalese"
+    },
+    {
+      "NATIONALITIES": "\"New Zealander\""
+    },
+    {
+      "NATIONALITIES": "Ni-Vanuatu"
+    },
+    {
+      "NATIONALITIES": "Nicaraguan"
+    },
+    {
+      "NATIONALITIES": "Nigerian"
+    },
+    {
+      "NATIONALITIES": "Nigerien"
+    },
+    {
+      "NATIONALITIES": "\"North Korean\""
+    },
+    {
+      "NATIONALITIES": "\"Northern Irish\""
+    },
+    {
+      "NATIONALITIES": "Norwegian"
+    },
+    {
+      "NATIONALITIES": "Omani"
+    },
+    {
+      "NATIONALITIES": "Pakistani"
+    },
+    {
+      "NATIONALITIES": "Palauan"
+    },
+    {
+      "NATIONALITIES": "Panamanian"
+    },
+    {
+      "NATIONALITIES": "\"Papua New Guinean\""
+    },
+    {
+      "NATIONALITIES": "Paraguayan"
+    },
+    {
+      "NATIONALITIES": "Peruvian"
+    },
+    {
+      "NATIONALITIES": "Polish"
+    },
+    {
+      "NATIONALITIES": "Portuguese"
+    },
+    {
+      "NATIONALITIES": "Qatari"
+    },
+    {
+      "NATIONALITIES": "Romanian"
+    },
+    {
+      "NATIONALITIES": "Russian"
+    },
+    {
+      "NATIONALITIES": "Rwandan"
+    },
+    {
+      "NATIONALITIES": "\"Saint Lucian\""
+    },
+    {
+      "NATIONALITIES": "Salvadoran"
+    },
+    {
+      "NATIONALITIES": "Samoan"
+    },
+    {
+      "NATIONALITIES": "\"San Marinese\""
+    },
+    {
+      "NATIONALITIES": "\"Sao Tomean\""
+    },
+    {
+      "NATIONALITIES": "Saudi"
+    },
+    {
+      "NATIONALITIES": "Scottish"
+    },
+    {
+      "NATIONALITIES": "Senegalese"
+    },
+    {
+      "NATIONALITIES": "Serbian"
+    },
+    {
+      "NATIONALITIES": "Seychellois"
+    },
+    {
+      "NATIONALITIES": "\"Sierra Leonean\""
+    },
+    {
+      "NATIONALITIES": "Singaporean"
+    },
+    {
+      "NATIONALITIES": "Slovakian"
+    },
+    {
+      "NATIONALITIES": "Slovenian"
+    },
+    {
+      "NATIONALITIES": "\"Solomon Islander\""
+    },
+    {
+      "NATIONALITIES": "Somali"
+    },
+    {
+      "NATIONALITIES": "\"South African\""
+    },
+    {
+      "NATIONALITIES": "\"South Korean\""
+    },
+    {
+      "NATIONALITIES": "Spanish"
+    },
+    {
+      "NATIONALITIES": "\"Sri Lankan\""
+    },
+    {
+      "NATIONALITIES": "Sudanese"
+    },
+    {
+      "NATIONALITIES": "Surinamer"
+    },
+    {
+      "NATIONALITIES": "Swazi"
+    },
+    {
+      "NATIONALITIES": "Swedish"
+    },
+    {
+      "NATIONALITIES": "Swiss"
+    },
+    {
+      "NATIONALITIES": "Syrian"
+    },
+    {
+      "NATIONALITIES": "Taiwanese"
+    },
+    {
+      "NATIONALITIES": "Tajik"
+    },
+    {
+      "NATIONALITIES": "Tanzanian"
+    },
+    {
+      "NATIONALITIES": "Thai"
+    },
+    {
+      "NATIONALITIES": "Togolese"
+    },
+    {
+      "NATIONALITIES": "Tongan"
+    },
+    {
+      "NATIONALITIES": "Trinidadian "
+    },
+    {
+      "NATIONALITIES": "Tunisian"
+    },
+    {
+      "NATIONALITIES": "Turkish"
+    },
+    {
+      "NATIONALITIES": "Tuvaluan"
+    },
+    {
+      "NATIONALITIES": "Ugandan"
+    },
+    {
+      "NATIONALITIES": "Ukrainian"
+    },
+    {
+      "NATIONALITIES": "Uruguayan"
+    },
+    {
+      "NATIONALITIES": "Uzbekistani"
+    },
+    {
+      "NATIONALITIES": "Venezuelan"
+    },
+    {
+      "NATIONALITIES": "Vietnamese"
+    },
+    {
+      "NATIONALITIES": "Welsh"
+    },
+    {
+      "NATIONALITIES": "Yemenite"
+    },
+    {
+      "NATIONALITIES": "Zambian"
+    },
+    {
+      "NATIONALITIES": "Zimbabwean"
+    }
+  ],
+  "Place": [
+    {
+      "COUNTRY": "Afghanistan",
+      "CITY": "LA \"Los Angeles\"",
+      "STATE": "Alabama",
+      "REGION": "Mediterranean",
+      "SETTING": "city urban"
+    },
+    {
+      "COUNTRY": "Albania",
+      "CITY": "NYC \"New York City\"",
+      "STATE": "Alaska",
+      "REGION": "\"South of France\" \"French Riviera\"",
+      "SETTING": "rural"
+    },
+    {
+      "COUNTRY": "Algeria",
+      "CITY": "Manhattan Brooklyn \"New York City\"",
+      "STATE": "Arizona",
+      "REGION": "\"New England\"",
+      "SETTING": "nature"
+    },
+    {
+      "COUNTRY": "\"American Samoa\"",
+      "CITY": "London",
+      "STATE": "Arkansas",
+      "REGION": "\"Silicon Valley\"",
+      "SETTING": "sea"
+    },
+    {
+      "COUNTRY": "Andorra",
+      "CITY": "Delhi",
+      "STATE": "California",
+      "REGION": "West",
+      "SETTING": "cult"
+    },
+    {
+      "COUNTRY": "Angola",
+      "CITY": "Kashmir",
+      "STATE": "Colorado",
+      "REGION": "East",
+      "SETTING": "startup"
+    },
+    {
+      "COUNTRY": "Anguilla",
+      "CITY": "Bangalore",
+      "STATE": "Connecticut",
+      "REGION": "Midwest",
+      "SETTING": "bullfight"
+    },
+    {
+      "COUNTRY": "Barbuda",
+      "CITY": "Prague",
+      "STATE": "Delaware",
+      "REGION": "\"Wall Street\"",
+      "SETTING": "\"small town\""
+    },
+    {
+      "COUNTRY": "Antigua ",
+      "CITY": "\"Buenos Aires\"",
+      "STATE": "\"District of Columbia\"",
+      "REGION": "\"Indian Diaspora\""
+    },
+    {
+      "COUNTRY": "Argentina",
+      "CITY": "Paris",
+      "STATE": "Florida",
+      "REGION": "Hollywood"
+    },
+    {
+      "COUNTRY": "Armenia",
+      "CITY": "Minneapolis",
+      "STATE": "Georgia",
+      "REGION": "\"Middle East\""
+    },
+    {
+      "COUNTRY": "Aruba",
+      "CITY": "CITY/COUNTRY DATA",
+      "STATE": "Hawaii"
+    },
+    {
+      "COUNTRY": "Australia",
+      "STATE": "Idaho"
+    },
+    {
+      "COUNTRY": "Austria",
+      "STATE": "Illinois"
+    },
+    {
+      "COUNTRY": "Azerbaijan",
+      "STATE": "Indiana"
+    },
+    {
+      "COUNTRY": "Bahamas",
+      "STATE": "Iowa"
+    },
+    {
+      "COUNTRY": "Bahrain",
+      "STATE": "Kansas"
+    },
+    {
+      "COUNTRY": "Bangladesh",
+      "STATE": "Kentucky"
+    },
+    {
+      "COUNTRY": "Barbados",
+      "STATE": "Louisiana"
+    },
+    {
+      "COUNTRY": "Belarus",
+      "STATE": "Maine"
+    },
+    {
+      "COUNTRY": "Belgium",
+      "STATE": "Montana"
+    },
+    {
+      "COUNTRY": "Belize",
+      "STATE": "Nebraska"
+    },
+    {
+      "COUNTRY": "Benin",
+      "STATE": "Nevada"
+    },
+    {
+      "COUNTRY": "Bermuda",
+      "STATE": "\"New Hampshire\""
+    },
+    {
+      "COUNTRY": "Bhutan",
+      "STATE": "\"New Jersey\""
+    },
+    {
+      "COUNTRY": "Bolivia",
+      "STATE": "\"New Mexico\""
+    },
+    {
+      "COUNTRY": "Bosnia-Herzegovina",
+      "STATE": "\"New York\""
+    },
+    {
+      "COUNTRY": "Botswana",
+      "STATE": "\"North Carolina\""
+    },
+    {
+      "COUNTRY": "Brazil",
+      "STATE": "\"North Dakota\""
+    },
+    {
+      "COUNTRY": "\"British Virgin Islands\"",
+      "STATE": "Ohio"
+    },
+    {
+      "COUNTRY": "Brunei",
+      "STATE": "Oklahoma"
+    },
+    {
+      "COUNTRY": "Bulgaria",
+      "STATE": "Oregon"
+    },
+    {
+      "COUNTRY": "\"Burkina Faso\"",
+      "STATE": "Maryland"
+    },
+    {
+      "COUNTRY": "Burundi",
+      "STATE": "Massachusetts"
+    },
+    {
+      "COUNTRY": "Cambodia",
+      "STATE": "Michigan"
+    },
+    {
+      "COUNTRY": "Cameroon",
+      "STATE": "Minnesota"
+    },
+    {
+      "COUNTRY": "Canada",
+      "STATE": "Mississippi"
+    },
+    {
+      "COUNTRY": "\"Cape Verde\"",
+      "STATE": "Missouri"
+    },
+    {
+      "COUNTRY": "\"Cayman Islands\"",
+      "STATE": "Pennsylvania"
+    },
+    {
+      "COUNTRY": "\"Central African Republic\"",
+      "STATE": "\"Rhode Island\""
+    },
+    {
+      "COUNTRY": "Chad",
+      "STATE": "\"South Carolina\""
+    },
+    {
+      "COUNTRY": "Chile",
+      "STATE": "\"South Dakota\""
+    },
+    {
+      "COUNTRY": "China",
+      "STATE": "Tennessee"
+    },
+    {
+      "COUNTRY": "\"Hong Kong\"",
+      "STATE": "Texas"
+    },
+    {
+      "COUNTRY": "Macau",
+      "STATE": "Utah"
+    },
+    {
+      "COUNTRY": "\"Christmas Island\"",
+      "STATE": "Vermont"
+    },
+    {
+      "COUNTRY": "\"Cocos Islands\"",
+      "STATE": "Virginia"
+    },
+    {
+      "COUNTRY": "Colombia",
+      "STATE": "Washington"
+    },
+    {
+      "COUNTRY": "Congo",
+      "STATE": "\"West Virginia\""
+    },
+    {
+      "COUNTRY": "Comoros",
+      "STATE": "Wisconsin"
+    },
+    {
+      "COUNTRY": "\"Democratic Republic of Congo\"",
+      "STATE": "Wyoming"
+    },
+    {
+      "COUNTRY": "\"Republic of the Congo\""
+    },
+    {
+      "COUNTRY": "\"Cook Islands\""
+    },
+    {
+      "COUNTRY": "\"Costa Rica\""
+    },
+    {
+      "COUNTRY": "\"Cote d'Ivoire\""
+    },
+    {
+      "COUNTRY": "Croatia"
+    },
+    {
+      "COUNTRY": "Cuba"
+    },
+    {
+      "COUNTRY": "Curacao"
+    },
+    {
+      "COUNTRY": "Cyprus"
+    },
+    {
+      "COUNTRY": "Czechia"
+    },
+    {
+      "COUNTRY": "Denmark"
+    },
+    {
+      "COUNTRY": "Djibouti"
+    },
+    {
+      "COUNTRY": "Dominica"
+    },
+    {
+      "COUNTRY": "\"Dominican Republic\""
+    },
+    {
+      "COUNTRY": "\"East Timor\""
+    },
+    {
+      "COUNTRY": "Ecuador"
+    },
+    {
+      "COUNTRY": "Egypt"
+    },
+    {
+      "COUNTRY": "\"El Salvador\""
+    },
+    {
+      "COUNTRY": "\"Equatorial Guinea\""
+    },
+    {
+      "COUNTRY": "Eritrea"
+    },
+    {
+      "COUNTRY": "Estonia"
+    },
+    {
+      "COUNTRY": "Eswatini"
+    },
+    {
+      "COUNTRY": "Ethiopia"
+    },
+    {
+      "COUNTRY": "\"Falkland Islands\""
+    },
+    {
+      "COUNTRY": "\"Faroe Islands\""
+    },
+    {
+      "COUNTRY": "Fiji"
+    },
+    {
+      "COUNTRY": "Finland"
+    },
+    {
+      "COUNTRY": "France"
+    },
+    {
+      "COUNTRY": "\"French Guiana\""
+    },
+    {
+      "COUNTRY": "\"French Polynesia\""
+    },
+    {
+      "COUNTRY": "Gabon"
+    },
+    {
+      "COUNTRY": "Gambia"
+    },
+    {
+      "COUNTRY": "Georgia"
+    },
+    {
+      "COUNTRY": "Germany"
+    },
+    {
+      "COUNTRY": "Ghana"
+    },
+    {
+      "COUNTRY": "Gibraltar"
+    },
+    {
+      "COUNTRY": "Greece"
+    },
+    {
+      "COUNTRY": "Greenland"
+    },
+    {
+      "COUNTRY": "Grenada"
+    },
+    {
+      "COUNTRY": "Guadeloupe"
+    },
+    {
+      "COUNTRY": "Guam"
+    },
+    {
+      "COUNTRY": "Guatemala"
+    },
+    {
+      "COUNTRY": "Guinea"
+    },
+    {
+      "COUNTRY": "Guinea-Bissau"
+    },
+    {
+      "COUNTRY": "Guyana"
+    },
+    {
+      "COUNTRY": "Haiti"
+    },
+    {
+      "COUNTRY": "Honduras"
+    },
+    {
+      "COUNTRY": "Hungary"
+    },
+    {
+      "COUNTRY": "Iceland"
+    },
+    {
+      "COUNTRY": "India"
+    },
+    {
+      "COUNTRY": "Indonesia"
+    },
+    {
+      "COUNTRY": "Iran"
+    },
+    {
+      "COUNTRY": "Iraq"
+    },
+    {
+      "COUNTRY": "Ireland"
+    },
+    {
+      "COUNTRY": "\"Isle of Man\""
+    },
+    {
+      "COUNTRY": "Israel"
+    },
+    {
+      "COUNTRY": "Italy"
+    },
+    {
+      "COUNTRY": "Jamaica"
+    },
+    {
+      "COUNTRY": "Japan"
+    },
+    {
+      "COUNTRY": "Jordan"
+    },
+    {
+      "COUNTRY": "Kazakhstan"
+    },
+    {
+      "COUNTRY": "Kenya"
+    },
+    {
+      "COUNTRY": "Kiribati (Gilbert)"
+    },
+    {
+      "COUNTRY": "North Korea"
+    },
+    {
+      "COUNTRY": "South Korea"
+    },
+    {
+      "COUNTRY": "Kosovo"
+    },
+    {
+      "COUNTRY": "Kuwait"
+    },
+    {
+      "COUNTRY": "Kyrgyzstan"
+    },
+    {
+      "COUNTRY": "Laos"
+    },
+    {
+      "COUNTRY": "Latvia"
+    },
+    {
+      "COUNTRY": "Lebanon"
+    },
+    {
+      "COUNTRY": "Lesotho"
+    },
+    {
+      "COUNTRY": "Liberia"
+    },
+    {
+      "COUNTRY": "Libya"
+    },
+    {
+      "COUNTRY": "Liechtenstein"
+    },
+    {
+      "COUNTRY": "Lithuania"
+    },
+    {
+      "COUNTRY": "Luxembourg"
+    },
+    {
+      "COUNTRY": "Madagascar"
+    },
+    {
+      "COUNTRY": "Malawi"
+    },
+    {
+      "COUNTRY": "Malaysia"
+    },
+    {
+      "COUNTRY": "Maldives"
+    },
+    {
+      "COUNTRY": "Mali"
+    },
+    {
+      "COUNTRY": "Malta"
+    },
+    {
+      "COUNTRY": "\"Marshall Islands\""
+    },
+    {
+      "COUNTRY": "Martinique"
+    },
+    {
+      "COUNTRY": "Mauritania"
+    },
+    {
+      "COUNTRY": "Mauritius"
+    },
+    {
+      "COUNTRY": "Mayotte"
+    },
+    {
+      "COUNTRY": "Mexico"
+    },
+    {
+      "COUNTRY": "Micronesia"
+    },
+    {
+      "COUNTRY": "Moldova"
+    },
+    {
+      "COUNTRY": "Monaco"
+    },
+    {
+      "COUNTRY": "Mongolia"
+    },
+    {
+      "COUNTRY": "Montenegro"
+    },
+    {
+      "COUNTRY": "Montserrat"
+    },
+    {
+      "COUNTRY": "Morocco"
+    },
+    {
+      "COUNTRY": "Mozambique"
+    },
+    {
+      "COUNTRY": "Myanmar Burma"
+    },
+    {
+      "COUNTRY": "Namibia"
+    },
+    {
+      "COUNTRY": "Nauru"
+    },
+    {
+      "COUNTRY": "Nepal"
+    },
+    {
+      "COUNTRY": "Netherlands"
+    },
+    {
+      "COUNTRY": "\"New Caledonia\""
+    },
+    {
+      "COUNTRY": "\"New Zealand\""
+    },
+    {
+      "COUNTRY": "Nicaragua"
+    },
+    {
+      "COUNTRY": "Niger"
+    },
+    {
+      "COUNTRY": "Nigeria"
+    },
+    {
+      "COUNTRY": "Niue"
+    },
+    {
+      "COUNTRY": "\"Norfolk Island\""
+    },
+    {
+      "COUNTRY": "\"North Macedonia\""
+    },
+    {
+      "COUNTRY": "\"Northern Mariana Islands\""
+    },
+    {
+      "COUNTRY": "Norway"
+    },
+    {
+      "COUNTRY": "Oman"
+    },
+    {
+      "COUNTRY": "Pakistan"
+    },
+    {
+      "COUNTRY": "Palau"
+    },
+    {
+      "COUNTRY": "Panama"
+    },
+    {
+      "COUNTRY": "\"Papua New Guinea\""
+    },
+    {
+      "COUNTRY": "Paraguay"
+    },
+    {
+      "COUNTRY": "Peru"
+    },
+    {
+      "COUNTRY": "Philippines"
+    },
+    {
+      "COUNTRY": "\"Pitcairn Islands\""
+    },
+    {
+      "COUNTRY": "Poland"
+    },
+    {
+      "COUNTRY": "Portugal"
+    },
+    {
+      "COUNTRY": "\"Puerto Rico\""
+    },
+    {
+      "COUNTRY": "Qatar"
+    },
+    {
+      "COUNTRY": "Reunion"
+    },
+    {
+      "COUNTRY": "Romania"
+    },
+    {
+      "COUNTRY": "Russia"
+    },
+    {
+      "COUNTRY": "Rwanda"
+    },
+    {
+      "COUNTRY": "\"Saint Helena\""
+    },
+    {
+      "COUNTRY": "\"Saint Kitts and Nevis\""
+    },
+    {
+      "COUNTRY": "\"Saint Lucia\""
+    },
+    {
+      "COUNTRY": "\"Saint Pierre and Miquelon\""
+    },
+    {
+      "COUNTRY": "Samoa"
+    },
+    {
+      "COUNTRY": "\"San Marino\""
+    },
+    {
+      "COUNTRY": "\"Sao Tome and Pri­ncipe\""
+    },
+    {
+      "COUNTRY": "\"Saudi Arabia\""
+    },
+    {
+      "COUNTRY": "Senegal"
+    },
+    {
+      "COUNTRY": "Serbia"
+    },
+    {
+      "COUNTRY": "Seychelles"
+    },
+    {
+      "COUNTRY": "\"Sierra Leone\""
+    },
+    {
+      "COUNTRY": "Singapore"
+    },
+    {
+      "COUNTRY": "\"Sint Maarten\""
+    },
+    {
+      "COUNTRY": "Slovakia"
+    },
+    {
+      "COUNTRY": "Slovenia"
+    },
+    {
+      "COUNTRY": "\"Solomon Islands\""
+    },
+    {
+      "COUNTRY": "Somalia"
+    },
+    {
+      "COUNTRY": "\"South Africa\""
+    },
+    {
+      "COUNTRY": "\"South Sudan\""
+    },
+    {
+      "COUNTRY": "Spain"
+    },
+    {
+      "COUNTRY": "\"Sri Lanka\""
+    },
+    {
+      "COUNTRY": "\"St Vincent and Grenadines\""
+    },
+    {
+      "COUNTRY": "Sudan"
+    },
+    {
+      "COUNTRY": "Suriname"
+    },
+    {
+      "COUNTRY": "Svalbard"
+    },
+    {
+      "COUNTRY": "Sweden"
+    },
+    {
+      "COUNTRY": "Switzerland"
+    },
+    {
+      "COUNTRY": "Syria"
+    },
+    {
+      "COUNTRY": "Taiwan"
+    },
+    {
+      "COUNTRY": "Tajikistan"
+    },
+    {
+      "COUNTRY": "Tanzania"
+    },
+    {
+      "COUNTRY": "Thailand"
+    },
+    {
+      "COUNTRY": "Togo"
+    },
+    {
+      "COUNTRY": "Tokelau"
+    },
+    {
+      "COUNTRY": "Tonga"
+    },
+    {
+      "COUNTRY": "\"Trinidad and Tobago\""
+    },
+    {
+      "COUNTRY": "Tunisia"
+    },
+    {
+      "COUNTRY": "Turkey"
+    },
+    {
+      "COUNTRY": "Turkmenistan"
+    },
+    {
+      "COUNTRY": "\"Turks and Caicos Islands\""
+    },
+    {
+      "COUNTRY": "Tuvalu"
+    },
+    {
+      "COUNTRY": "Uganda"
+    },
+    {
+      "COUNTRY": "Ukraine"
+    },
+    {
+      "COUNTRY": "\"United Arab Emirates\""
+    },
+    {
+      "COUNTRY": "\"United Kingdom\""
+    },
+    {
+      "COUNTRY": "\"United States\""
+    },
+    {
+      "COUNTRY": "Uruguay"
+    },
+    {
+      "COUNTRY": "Uzbekistan"
+    },
+    {
+      "COUNTRY": "Vanuatu"
+    },
+    {
+      "COUNTRY": "\"Vatican City\""
+    },
+    {
+      "COUNTRY": "Venezuela"
+    },
+    {
+      "COUNTRY": "Vietnam"
+    },
+    {
+      "COUNTRY": "\"US Virgin Islands\""
+    },
+    {
+      "COUNTRY": "\"Wallis and Futuna Islands\""
+    },
+    {
+      "COUNTRY": "\"West Bank\" Gaza"
+    },
+    {
+      "COUNTRY": "\"Western Sahara\""
+    },
+    {
+      "COUNTRY": "Yemen"
+    },
+    {
+      "COUNTRY": "Zambia"
+    },
+    {
+      "COUNTRY": "Zimbabwe"
+    }
+  ],
+  "Reception": [
+    {
+      "RECEPTION": "booker"
+    },
+    {
+      "RECEPTION": "nobel "
+    },
+    {
+      "RECEPTION": "pulitzer"
+    },
+    {
+      "RECEPTION": "\"national book award\""
+    },
+    {
+      "RECEPTION": "100 best novels'"
+    },
+    {
+      "RECEPTION": "controversy"
+    },
+    {
+      "RECEPTION": "\"best seller\" bestseller"
+    },
+    {
+      "RECEPTION": "\"million copies\""
+    },
+    {
+      "RECEPTION": "classic"
+    }
+  ],
+  "ALL TAGS - SPLIT": [
+    {
+      "SINGLE": "fashion",
+      "EQUALS": "culinary cuisine food",
+      "EQUALS ASTERISK": "transcendence liberation",
+      "KEY": "SUBJECT MATTER"
+    },
+    {
+      "SINGLE": "film",
+      "EQUALS": "partying party parties",
+      "EQUALS ASTERISK": "pot marijuana weed LSD acid psychedelic heroin drugs",
+      "KEY": "STYLE"
+    },
+    {
+      "SINGLE": "art",
+      "EQUALS": "tech technology",
+      "EQUALS ASTERISK": "internet technology",
+      "KEY": "TIME"
+    },
+    {
+      "SINGLE": "literature",
+      "EQUALS": "university college",
+      "EQUALS ASTERISK": "college school campus education",
+      "KEY": "FORM"
+    },
+    {
+      "SINGLE": "music",
+      "EQUALS": "athletics sports",
+      "EQUALS ASTERISK": "yale princeton harvard columbia brown darthmouth \"Ivy League\" ",
+      "KEY": "RECEPTION"
+    },
+    {
+      "SINGLE": "travel",
+      "EQUALS": "nostalgic nostalgia",
+      "EQUALS ASTERISK": "mysticism shaman occult \"New Age\"",
+      "KEY": "(Ethnicites, Religion, and Place in their own tabs)"
+    },
+    {
+      "SINGLE": "glamour",
+      "EQUALS": "\"old age\" aging",
+      "EQUALS ASTERISK": "office corporate  career"
+    },
+    {
+      "SINGLE": "labor",
+      "EQUALS": "pregnant pregnancy ",
+      "EQUALS ASTERISK": "hippie counterculture"
+    },
+    {
+      "SINGLE": "farm",
+      "EQUALS": "sick sickness illness",
+      "EQUALS ASTERISK": "baseball football basketball tennis volleyball soccer sports"
+    },
+    {
+      "SINGLE": "grief",
+      "EQUALS": "blind blindness",
+      "EQUALS ASTERISK": "isolation loneliness solitude"
+    },
+    {
+      "SINGLE": "violence",
+      "EQUALS": "friend friendship",
+      "EQUALS ASTERISK": "death mortality"
+    },
+    {
+      "SINGLE": "ennui",
+      "EQUALS": "\"working class\" \"blue collar\"",
+      "EQUALS ASTERISK": "interracial race"
+    },
+    {
+      "SINGLE": "redemption",
+      "EQUALS": "child childhood",
+      "EQUALS ASTERISK": "poverty wealth"
+    },
+    {
+      "SINGLE": "regret",
+      "EQUALS": "\"social status\" \"social class\"",
+      "EQUALS ASTERISK": "poverty wealth"
+    },
+    {
+      "SINGLE": "paranoia",
+      "EQUALS": "expatriate expat",
+      "EQUALS ASTERISK": "entrepreneur business"
+    },
+    {
+      "SINGLE": "happiness",
+      "EQUALS": "utopic uptopia",
+      "EQUALS ASTERISK": "mother father brother sister daughter husband wife marriage divorce son \"family saga\" family"
+    },
+    {
+      "SINGLE": "sadness",
+      "EQUALS": "political politics",
+      "EQUALS ASTERISK": "\"coming of age\" adolescence childhood \"salad days\" youth"
+    },
+    {
+      "SINGLE": "beautiful",
+      "EQUALS": "moral ethic ethics morals ethical morality",
+      "EQUALS ASTERISK": "LGBTQ sexuality"
+    },
+    {
+      "SINGLE": "memory ",
+      "EQUALS": "psychological psychology",
+      "EQUALS ASTERISK": "lesbian gay transgender queer bisexual LGBTQ "
+    },
+    {
+      "SINGLE": "loss",
+      "EQUALS": "philosophical philosophy",
+      "EQUALS ASTERISK": "girl girlhood \"female experience\""
+    },
+    {
+      "SINGLE": "apathy",
+      "EQUALS": "9/11 \"September 11\"",
+      "EQUALS ASTERISK": "boy boyhood \"male experience\""
+    },
+    {
+      "SINGLE": "lust",
+      "EQUALS": "anti-war antiwar",
+      "EQUALS ASTERISK": "dog animal"
+    },
+    {
+      "SINGLE": "fear",
+      "EQUALS": "colonial colonization colonialism",
+      "EQUALS ASTERISK": "doctor medicine"
+    },
+    {
+      "SINGLE": "longing",
+      "EQUALS": "racial race",
+      "EQUALS ASTERISK": "lawyer law"
+    },
+    {
+      "SINGLE": "trauma",
+      "EQUALS": "existentialist existentialism",
+      "EQUALS ASTERISK": "prostitute prositution"
+    },
+    {
+      "SINGLE": "disease",
+      "EQUALS": "sociology sociological ",
+      "EQUALS ASTERISK": "\"September 11\" terrorism"
+    },
+    {
+      "SINGLE": "alcohol",
+      "EQUALS": "cheating unfaithful adultery adulterous affair infidelity",
+      "EQUALS ASTERISK": "terrorist terrorism"
+    },
+    {
+      "SINGLE": "cancer",
+      "EQUALS": "Physician doctor",
+      "EQUALS ASTERISK": "\"serial killer\" murder"
+    },
+    {
+      "SINGLE": "rape",
+      "EQUALS": "dying death",
+      "EQUALS ASTERISK": "soldier military war"
+    },
+    {
+      "SINGLE": "consciousness",
+      "EQUALS": "humor comic comedy hilarious funny",
+      "EQUALS ASTERISK": "freedom \"free will\" free"
+    },
+    {
+      "SINGLE": "suicide",
+      "EQUALS": "unreliable narration unreliable narrator",
+      "EQUALS ASTERISK": "lawyer law"
+    },
+    {
+      "SINGLE": "addiction",
+      "EQUALS": "\"magic realist\" \"magical realism\"",
+      "EQUALS ASTERISK": "\"post independence\" \"post partition\" \"post colonial\""
+    },
+    {
+      "SINGLE": "depression",
+      "EQUALS": "allusions allusive",
+      "EQUALS ASTERISK": "communist communism"
+    },
+    {
+      "SINGLE": "yuppie",
+      "EQUALS": "fast-paced \"fast paced\"",
+      "EQUALS ASTERISK": "God religion"
+    },
+    {
+      "SINGLE": "student",
+      "EQUALS": "satirical satire",
+      "EQUALS ASTERISK": "racist racism"
+    },
+    {
+      "SINGLE": "bohemian",
+      "EQUALS": "\"short story\" \"short stories\"",
+      "EQUALS ASTERISK": "math mathematics"
+    },
+    {
+      "SINGLE": "immigrant",
+      "EQUALS": "allegorically allegory",
+      "EQUALS ASTERISK": "heaven hell afterlife"
+    },
+    {
+      "SINGLE": "femininity",
+      "EQUALS": "poet poems poetry",
+      "EQUALS ASTERISK": "heartbreak love"
+    },
+    {
+      "SINGLE": "intellectual",
+      "EQUALS": "\"science fiction\" sci-fi",
+      "EQUALS ASTERISK": "divorce marriage"
+    },
+    {
+      "SINGLE": "refugee",
+      "EQUALS": "mythology myth",
+      "EQUALS ASTERISK": "Architect architecture"
+    },
+    {
+      "SINGLE": "pedophile",
+      "EQUALS": "\"first novel\" \"debut work\"",
+      "EQUALS ASTERISK": "athlete sports"
+    },
+    {
+      "SINGLE": "orphan",
+      "EQUALS": "monologues monologue",
+      "EQUALS ASTERISK": "innovative experimental"
+    },
+    {
+      "SINGLE": "childhood",
+      "EQUALS": "\"best seller\" bestseller",
+      "EQUALS ASTERISK": "\"murder mystery\" mystery"
+    },
+    {
+      "SINGLE": "\"loss of innocence\"",
+      "EQUALS ASTERISK": "\"personal essay\" essay"
+    },
+    {
+      "SINGLE": "punk"
+    },
+    {
+      "SINGLE": "twin"
+    },
+    {
+      "SINGLE": "caste"
+    },
+    {
+      "SINGLE": "wealth"
+    },
+    {
+      "SINGLE": "nerd"
+    },
+    {
+      "SINGLE": "chef "
+    },
+    {
+      "SINGLE": "police"
+    },
+    {
+      "SINGLE": "masculinity"
+    },
+    {
+      "SINGLE": "apartheid"
+    },
+    {
+      "SINGLE": "urbanization"
+    },
+    {
+      "SINGLE": "dystopic"
+    },
+    {
+      "SINGLE": "socialism"
+    },
+    {
+      "SINGLE": "capitalism"
+    },
+    {
+      "SINGLE": "economics"
+    },
+    {
+      "SINGLE": "globalization"
+    },
+    {
+      "SINGLE": "consumerism"
+    },
+    {
+      "SINGLE": "environment"
+    },
+    {
+      "SINGLE": "modernization"
+    },
+    {
+      "SINGLE": "conspiracy"
+    },
+    {
+      "SINGLE": "millennial"
+    },
+    {
+      "SINGLE": "independence"
+    },
+    {
+      "SINGLE": "crime"
+    },
+    {
+      "SINGLE": "\"artificial intelligence\""
+    },
+    {
+      "SINGLE": "World War I"
+    },
+    {
+      "SINGLE": "World War II"
+    },
+    {
+      "SINGLE": "Vietnam War"
+    },
+    {
+      "SINGLE": "postwar"
+    },
+    {
+      "SINGLE": "Brexit"
+    },
+    {
+      "SINGLE": "Holocaust"
+    },
+    {
+      "SINGLE": "injustice"
+    },
+    {
+      "SINGLE": "supremacy "
+    },
+    {
+      "SINGLE": "stoicism"
+    },
+    {
+      "SINGLE": "epidemic"
+    },
+    {
+      "SINGLE": "sex"
+    },
+    {
+      "SINGLE": "\"forbidden love\""
+    },
+    {
+      "SINGLE": "lust"
+    },
+    {
+      "SINGLE": "provocative"
+    },
+    {
+      "SINGLE": "Teacher"
+    },
+    {
+      "SINGLE": "Lawyer"
+    },
+    {
+      "SINGLE": "Accountant"
+    },
+    {
+      "SINGLE": "Engineer"
+    },
+    {
+      "SINGLE": "Pharmacist"
+    },
+    {
+      "SINGLE": "Technician"
+    },
+    {
+      "SINGLE": "Electrician"
+    },
+    {
+      "SINGLE": "\"Police officer\""
+    },
+    {
+      "SINGLE": "Veterinarian"
+    },
+    {
+      "SINGLE": "Dietitian"
+    },
+    {
+      "SINGLE": "Surveyor"
+    },
+    {
+      "SINGLE": "\"Software Developer\""
+    },
+    {
+      "SINGLE": "Dentist"
+    },
+    {
+      "SINGLE": "Scientist"
+    },
+    {
+      "SINGLE": "Firefighter"
+    },
+    {
+      "SINGLE": "Midwife"
+    },
+    {
+      "SINGLE": "Surgeon"
+    },
+    {
+      "SINGLE": "Waiter"
+    },
+    {
+      "SINGLE": "Psychologist"
+    },
+    {
+      "SINGLE": "Librarian"
+    },
+    {
+      "SINGLE": "Chef"
+    },
+    {
+      "SINGLE": "Laborer"
+    },
+    {
+      "SINGLE": "Plumber"
+    },
+    {
+      "SINGLE": "Artist"
+    },
+    {
+      "SINGLE": "Physiotherapist"
+    },
+    {
+      "SINGLE": "Mechanic"
+    },
+    {
+      "SINGLE": "Secretary"
+    },
+    {
+      "SINGLE": "Broker"
+    },
+    {
+      "SINGLE": "Agriculturist"
+    },
+    {
+      "SINGLE": "\"Real Estate Broker\""
+    },
+    {
+      "SINGLE": "Athlete"
+    },
+    {
+      "SINGLE": "Hairdresser"
+    },
+    {
+      "SINGLE": "Journalist"
+    },
+    {
+      "SINGLE": "Cashier"
+    },
+    {
+      "SINGLE": "Butcher"
+    },
+    {
+      "SINGLE": "Consultant"
+    },
+    {
+      "SINGLE": "Actor"
+    },
+    {
+      "SINGLE": "Designer"
+    },
+    {
+      "SINGLE": "Bartender"
+    },
+    {
+      "SINGLE": "Cleaner"
+    },
+    {
+      "SINGLE": "Tailor"
+    },
+    {
+      "SINGLE": "Author"
+    },
+    {
+      "SINGLE": "\"young woman\""
+    },
+    {
+      "SINGLE": "\"young man\"\""
+    },
+    {
+      "SINGLE": "\"American Dream\""
+    },
+    {
+      "SINGLE": "erotic"
+    },
+    {
+      "SINGLE": "spare"
+    },
+    {
+      "SINGLE": "irony"
+    },
+    {
+      "SINGLE": "sarcasm"
+    },
+    {
+      "SINGLE": "\"word play\""
+    },
+    {
+      "SINGLE": "sad"
+    },
+    {
+      "SINGLE": "drama"
+    },
+    {
+      "SINGLE": "lush"
+    },
+    {
+      "SINGLE": "non-linear "
+    },
+    {
+      "SINGLE": "dense"
+    },
+    {
+      "SINGLE": "suspense"
+    },
+    {
+      "SINGLE": "\"stream of consciousness\""
+    },
+    {
+      "SINGLE": "candid"
+    },
+    {
+      "SINGLE": "monologue"
+    },
+    {
+      "SINGLE": "\"second person\""
+    },
+    {
+      "SINGLE": "restrained"
+    },
+    {
+      "SINGLE": "allusive"
+    },
+    {
+      "SINGLE": "saga"
+    },
+    {
+      "SINGLE": "lyric"
+    },
+    {
+      "SINGLE": "metafiction "
+    },
+    {
+      "SINGLE": "modernist"
+    },
+    {
+      "SINGLE": "realist"
+    },
+    {
+      "SINGLE": "postmodern"
+    },
+    {
+      "SINGLE": "plotty"
+    },
+    {
+      "SINGLE": "\"lush language\"\""
+    },
+    {
+      "SINGLE": "lyrical"
+    },
+    {
+      "SINGLE": "sparse"
+    },
+    {
+      "SINGLE": "somber"
+    },
+    {
+      "SINGLE": "languid"
+    },
+    {
+      "SINGLE": "flashback"
+    },
+    {
+      "SINGLE": "\"16th century\""
+    },
+    {
+      "SINGLE": "\"17th century\""
+    },
+    {
+      "SINGLE": "18th century\""
+    },
+    {
+      "SINGLE": "1900s"
+    },
+    {
+      "SINGLE": "1910s"
+    },
+    {
+      "SINGLE": "1920s"
+    },
+    {
+      "SINGLE": "1930s"
+    },
+    {
+      "SINGLE": "1940s"
+    },
+    {
+      "SINGLE": "1950s"
+    },
+    {
+      "SINGLE": "1960s"
+    },
+    {
+      "SINGLE": "1970s"
+    },
+    {
+      "SINGLE": "1980s"
+    },
+    {
+      "SINGLE": "1990s"
+    },
+    {
+      "SINGLE": "2000s"
+    },
+    {
+      "SINGLE": "2010s"
+    },
+    {
+      "SINGLE": "contemporary"
+    },
+    {
+      "SINGLE": "historical"
+    },
+    {
+      "SINGLE": "future"
+    },
+    {
+      "SINGLE": "spring"
+    },
+    {
+      "SINGLE": "summer"
+    },
+    {
+      "SINGLE": "autumn "
+    },
+    {
+      "SINGLE": "winter"
+    },
+    {
+      "SINGLE": "BC"
+    },
+    {
+      "SINGLE": "millenium"
+    },
+    {
+      "SINGLE": "\"roaring twenties\""
+    },
+    {
+      "SINGLE": "whodunit"
+    },
+    {
+      "SINGLE": "detective"
+    },
+    {
+      "SINGLE": "\"adapted to film\""
+    },
+    {
+      "SINGLE": "memoir"
+    },
+    {
+      "SINGLE": "autobiographical"
+    },
+    {
+      "SINGLE": "novel"
+    },
+    {
+      "SINGLE": "novella"
+    },
+    {
+      "SINGLE": "\"plot twist\""
+    },
+    {
+      "SINGLE": "debut "
+    },
+    {
+      "SINGLE": "\"modern classic\""
+    },
+    {
+      "SINGLE": "epic"
+    },
+    {
+      "SINGLE": "thriller"
+    },
+    {
+      "SINGLE": "memoir"
+    },
+    {
+      "SINGLE": "metafiction"
+    },
+    {
+      "SINGLE": "cyberpunk"
+    },
+    {
+      "SINGLE": "parable"
+    },
+    {
+      "SINGLE": "research"
+    },
+    {
+      "SINGLE": "spy"
+    },
+    {
+      "SINGLE": "fantasy"
+    },
+    {
+      "SINGLE": "epistolary "
+    },
+    {
+      "SINGLE": "fiction"
+    },
+    {
+      "SINGLE": "poetry"
+    },
+    {
+      "SINGLE": "reportage"
+    },
+    {
+      "SINGLE": "\"roman a clef\""
+    },
+    {
+      "SINGLE": "bildungsroman "
+    },
+    {
+      "SINGLE": "non-fiction"
+    },
+    {
+      "SINGLE": "booker"
+    },
+    {
+      "SINGLE": "nobel "
+    },
+    {
+      "SINGLE": "pulitzer"
+    },
+    {
+      "SINGLE": "\"national book award\""
+    },
+    {
+      "SINGLE": "\"100 best novels\""
+    },
+    {
+      "SINGLE": "classic"
+    },
+    {
+      "SINGLE": "controversy"
+    },
+    {
+      "SINGLE": "\"million copies\""
+    }
+  ]
+}
